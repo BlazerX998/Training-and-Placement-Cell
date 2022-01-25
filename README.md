@@ -2,16 +2,19 @@
 
 Synopsis
 ========
-A Django based project which let the students upload their resumes and notifies them of all the placement activities to be held in the college, it also has a portal on which recruitment tests ca be conducted.
+ A web Development project n which the applicants upload the resume to the portal and depends on the details recuritment process is scheduled in it.
+ 
 
 Installation and Prerequisites
 ------------------------------
-In order to know and use this project you need to know how python work and how to use django framework.
+1.You need to install XAMPP for doing the database operation in it . After installing the XAMPP  launch the PHP and Mysql and start in it. It will redirect to the Localhost site in it.
+2. For running the project in Django , first need to create a superuser. You will be prompted to enter a username, email, and password.
+   'python manage.py createsuperuser'
+3. After that run the command ' python manage.py runserver. Then a localhost link will get . Using the link u can access the output.
 
-Built With
+
+Technologies Used
 ----------
-* Python Programming
-* Django
-* HTML
-* Javascript
-* css
+1.Frontend - HTML,CSS,JS
+2.Backend - Django,PHP,Mysql
+3.Python Program
