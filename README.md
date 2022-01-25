@@ -23,5 +23,12 @@ Installation and Prerequisites
 Technologies Used
 ----------
 1.Frontend - HTML,CSS,JS
+
+
 2.Backend - Django,PHP,Mysql
+
+
 3.Python Program
+
+
+
