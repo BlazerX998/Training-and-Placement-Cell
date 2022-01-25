@@ -2,7 +2,7 @@
 
 Synopsis
 ========
- A web Development project n which the applicants upload the resume to the portal and depends on the details recuritment process is scheduled in it.
+ A Web Development project in which the applicants upload the resume to the portal and depends on the details in it recuritment process is scheduled in it.
  
 
 Installation and Prerequisites
