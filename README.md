@@ -1,4 +1,4 @@
-# Training-and-Placement-Cell
+# Placement-Management-System
 
 Synopsis
 ========
